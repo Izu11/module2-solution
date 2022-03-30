@@ -12,6 +12,27 @@ body{
   width: 100%;
 }
 
+#chicken{
+  background-color: #D59898;
+}
+
+#beef{
+  background-color: #C14543;
+}
+
+#sushi{
+  background-color: #E5D198;
+}
+
+.content-title{
+  position: absolute;
+  top:0;
+  right: 0px;
+  padding: 6px 90px;
+  border-left: 2px solid #000;
+  border-bottom: 2px solid #000;
+}
+
 .title{
   text-align: center;
   margin-bottom: 30px;
@@ -38,26 +59,8 @@ body{
   font-size:100%;
 }
 
-.content-title{
-  position: absolute;
-  top:0;
-  right: 0px;
-  padding: 6px 90px;
-  border-left: 2px solid #000;
-  border-bottom: 2px solid #000;
-}
 
-#chicken{
-  background-color: #D59898;
-}
 
-#beef{
-  background-color: #C14543;
-}
-
-#sushi{
-  background-color: #E5D198;
-}
 
 
 
